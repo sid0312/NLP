@@ -1,2 +1,2 @@
-# This repository contains .ipynb files related to various Natural Language Processing Tasks
+# This repository contains various tasks related to various Natural Language Processing 
 
